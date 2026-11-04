@@ -17,7 +17,7 @@
 
 Welcome to my **HTML & CSS Development Lab Practicals** repository.
 
-This repository contains my practical assignments for the **BCS554 – HTML & CSS Development Lab**, completed as part of my Bachelor of Technology (B.Tech) in Computer Science and Engineering.
+This repository contains my practical assignments Lab for the **BCS554 – HTML & CSS Development Lab**, completed as part of my Bachelor of Technology (B.Tech) in Computer Science and Engineering.
 
 The main purpose of this project is to develop a strong foundation in web development by learning and implementing HTML5 and CSS3 concepts through practical exercises.
 
